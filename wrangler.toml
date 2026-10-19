@@ -1,6 +1,6 @@
 name = "hunted-relay"
 main = "src/index.js"
-compatibility_date = "2025-01-01"
+compatibility_date = "2024-09-01"
 
 [[durable_objects.bindings]]
 name = "ROOM"
